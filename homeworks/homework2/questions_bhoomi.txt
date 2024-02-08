@@ -1,11 +1,18 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+cd {dir} -  enter directory
+ls {dir} - lists files in a directory
+mkdir {dir} - creates a new directory with a specified name
+touch {file} - creates a new file
 
 2. Do you have pets? What kind?
+I have none. (do humans count?)
 
 3. If you run across an error, what would your first course of action be?
+Read the error and understand what's happening.
 
 4. Funniest thing that happened to you in high school.
+Staring contests during silent classes and bursting into laughter.
 
 5. What is a python script? (Keep it simple)
-
+it is an interpretated program taht specifically uses the python language and is saved as a '.py' extension
 
