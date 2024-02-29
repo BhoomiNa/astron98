@@ -1,0 +1,6 @@
+ #= is to define variable
+ #== to say it actually equals to thatt object
+ #synatx= formatting
+ #you can leave the spacing
+ #no multiplication of strings addition is possible
+
